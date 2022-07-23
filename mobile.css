@@ -1,0 +1,28 @@
+.header-flex nav {
+    display: none;
+}
+
+.header-flex{
+    display: flex;   
+}
+
+.container-hero p {
+    min-width: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.newslatter p {
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.container-forms {
+    flex-wrap: wrap;
+    font-size: 15px;
+}
+
+.container-atts {
+    flex-wrap: wrap;
+}
